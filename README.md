@@ -4,7 +4,7 @@
 
 Horse Race Simulator is a Java application that simulates a horse race using multithreading. It provides a graphical interface where users can input horse names and watch as the horses race across the screen. The application demonstrates the use of Swing for GUI, multithreading for concurrent execution, and basic graphics for visual representation.
 
-![Horse Race Simulator Screenshot](path/to/screenshot.png)
+![Horse Race Simulator Screenshot]([path/to/screenshot.png](https://github.com/Ornella-Gigante/HorseRaceSimulator_Multithreading/blob/main/horses_demo_screenshot.png))
 
 ## 🏗️ Project Structure
 
@@ -46,7 +46,7 @@ Horse Race Simulator is a Java application that simulates a horse race using mul
 
 Here's a video demonstration of the Horse Race Simulator in action:
 
-[Link to Video Demo](path/to/demo/video)
+[Link to Video Demo]([path/to/demo/video](https://github.com/Ornella-Gigante/HorseRaceSimulator_Multithreading/blob/main/horses.mp4))
 
 ## 🛠️ Requirements
 
@@ -62,8 +62,5 @@ Contributions to the Horse Race Simulator project are welcome. Please feel free 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 Contributions to the Horse Race Simulator project are welcome!
-Please feel free to submit a Pull Request.
+Please feel free to submit a Pull Request :) 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
