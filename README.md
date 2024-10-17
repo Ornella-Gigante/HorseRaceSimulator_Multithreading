@@ -64,7 +64,7 @@ Contributions to the Horse Race Simulator project are welcome!
 Please feel free to submit a Pull Request :) 
 
 
-##Overview 
+## Overview 
 
 
 ![Horse Race Simulator Screenshot](https://github.com/Ornella-Gigante/HorseRaceSimulator_Multithreading/blob/main/horses_demo_screenshot.png)
